@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm DINESH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img  align="right" src="https://cdn.pixabay.com/photo/2023/10/20/14/25/ai-generated-8329596_640.jpg" alt="">
+
 
 - 🌱 I’m currently learning **DevOps**
 
